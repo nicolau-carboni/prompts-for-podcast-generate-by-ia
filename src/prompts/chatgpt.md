@@ -3,9 +3,11 @@
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Meu objetivo é montar um roteiro de podcast, e vamos criar um podcast sobre religião, focado especificamente na comunidade do Santo Daime e eu gostaria de uma ajuda sua para criar 5 sugestões
+# Nome do podcast
+
+---
+
+Meu objetivo é montar um roteiro de podcast, e vamos criar um podcast sobre religião, focado especificamente na comunidade do Santo Daime e eu gostaria de uma ajuda sua para criar 5 sugestões
 de nomes criativos para um podcast do Santo Daime feito por nerds, e que tenha algum trocadilho nerd no nome
 
 O podcast vai falar sobre dicas e novidades sobre o mundo da doutrina e o que está acontecendo no festival que está acontecendo
@@ -18,8 +20,10 @@ O podcast vai falar sobre dicas e novidades sobre o mundo da doutrina e o que es
 
 {REGRAS NEGATIVAS}
 
-- Não quero que o título contenha palavras em inglês |
-| conteúdo | 
+- Não quero que o título contenha palavras em inglês
+
+# Episódio de Podcast
+
 Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast sobre, focado em Santo Daime cujo o nome é “O Santo Despertar - Uma jornada pelo Daime e pela força interior.” e tem foco na comunidade do Santo Daime durante o festival do fim deste ano ,  com o público alvo dos visitantes da Igreja Matriz.
 
 o formato do roteiro deve ser
@@ -41,5 +45,4 @@ o formato do roteiro deve ser
 {REGRAS NEGATIVAS}
 
 - Não use termos técnicos
-- Não ultrapasse 5 minutos de duração |
-
+- Não ultrapasse 5 minutos de duração
